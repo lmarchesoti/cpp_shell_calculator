@@ -20,6 +20,7 @@ exit command
 This calculator uses the c++ boost libraries. More specifically:
 
 boost/xpressive to parse the command line through regex
+
 boost/lexical\_cast for safer type casts ;)
 
 ## Compilation
