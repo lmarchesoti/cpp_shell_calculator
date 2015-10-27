@@ -25,7 +25,9 @@ boost/lexical\_cast for safer type casts ;)
 
 ## Compilation
 
-gcc -I *path\_to\_boost* src/\*.cpp
+fill BOOST_DIR in the *makefile* with the directory of your boost libraries, then just run:
+
+*make*
 
 ## Description
 
